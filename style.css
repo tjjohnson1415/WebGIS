@@ -1,0 +1,14 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 2;
+  height: 100%;
+  width: 100%;
+}
+
+#buttonContainer {
+  position: relative;
+  bottom: 490px;
+  left: 1665px;
+}
